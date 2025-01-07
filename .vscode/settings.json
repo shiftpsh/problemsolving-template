@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\mingw64\\bin\\g++.exe",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0, UseTabs: Never }",
+    "cmake.cmakePath": "C:\\mingw64\\bin\\cmake.exe",
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "cmake.configureArgs": [
+        "-G",
+        "MinGW Makefiles"
+    ]
+}
