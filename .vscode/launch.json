@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Launch program",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/problemsolving.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "internalConsole",
+            "preLaunchTask": "CMake: build"
+        }
+    ],
+    "version": "2.0.0"
+}
