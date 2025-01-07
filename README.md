@@ -1,4 +1,4 @@
-# problemsolving-template
+# ps-template-vsc-windows
 
 Personal problemsolving template to use with Windows + VS Code.
 
