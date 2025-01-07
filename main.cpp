@@ -9,8 +9,6 @@ using pll = pair<ll, ll>;
 
 /* [💭] [💡] [🎈] */
 
-const int inf = 1e9;
-
 int main() {
     cin.tie(nullptr), ios::sync_with_stdio(false);
     
